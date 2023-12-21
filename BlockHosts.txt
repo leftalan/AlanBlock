@@ -1,0 +1,7 @@
+127.0.0.1 a.line.me
+127.0.0.1 dad-api.dcard.tw
+127.0.0.1 external.ftpe2-1.fna.fbcdn.net
+127.0.0.1 external.ftpe7-3.fna.fbcdn.net
+127.0.0.1 external.ftpe8-2.fna.fbcdn.net
+127.0.0.1 login.sina.com.cn
+127.0.0.1 sspapi-prd.samsung.com
