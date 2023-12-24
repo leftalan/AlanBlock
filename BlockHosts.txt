@@ -5,3 +5,5 @@
 127.0.0.1 external.ftpe8-2.fna.fbcdn.net
 127.0.0.1 login.sina.com.cn
 127.0.0.1 sspapi-prd.samsung.com
+127.0.0.1 lap-click.tr.line.me/v1
+127.0.0.1 line.me/R/nv/appStore/?params
